@@ -1,0 +1,12 @@
+langchain
+chromadb
+sentence-transformers
+torch           # for sentence-transformers
+ollama
+ragas
+rouge-score
+nltk
+scikit-learn
+numpy
+pandas
+tqdm

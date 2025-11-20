@@ -1,0 +1,43 @@
+
+[
+    {
+    "id": 1,
+    "question": "What is the real remedy for caste system according to Document 1?",
+    "groundtruth": "The real remedy is to destroy the belief in the sanctity of the shastras.",
+    "source_documents": ["speech1.txt"],
+    "question_type": "factual",
+    "answerable": true
+    },
+    {
+    "id": 2,
+    "question": "What does Ambedkar say about the Buddha's view on rituals in Document 2?",
+    "groundtruth": "The Buddha was against ritualism, condemned sacrifices, rejected Vedic authority,denied prayer efficacy, and discarded gods.",
+    "source_documents": ["speech2.txt"],
+    "question_type": "factual",
+    "answerable": true
+    },
+    {
+    "id": 3,
+    "question": "What two types of constitutional remedies does Ambedkar mention in Document 3?",
+    "groundtruth": "Fundamental rights which are justiciable, and directive principles which are notjusticiable.",
+    "source_documents": ["speech3.txt"],
+    "question_type": "factual",
+    "answerable": true
+    },
+    {
+    "id": 4,
+    "question": "What personal experiences of untouchability does Ambedkar describe in Document 4?",
+    "groundtruth": "Not allowed to drink from public wells, not allowed to enter temples, forced to live outside villages.",
+    "source_documents": ["speech4.txt"],
+    "question_type": "factual",
+    "answerable": true
+    },
+    {
+    "id": 5,
+    "question": "Why does Ambedkar believe Pakistan's creation was inevitable in Document 5?",
+    "groundtruth": "Because Hindus and Muslims are two separate nations with different religions,cultures, and historical backgrounds who cannot live under one domination.",
+    "source_documents": ["speech5.txt"],
+    "question_type": "factual",
+    "answerable": true
+    }
+]
